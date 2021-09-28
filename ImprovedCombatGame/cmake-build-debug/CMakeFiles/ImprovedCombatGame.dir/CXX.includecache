@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fennson1/CLionProjects/ImprovedCombatGame/Adventure.cpp
+Adventure.h
+/Users/fennson1/CLionProjects/ImprovedCombatGame/Adventure.h
+
+/Users/fennson1/CLionProjects/ImprovedCombatGame/Adventure.h
+iostream
+-
+Enemy.h
+/Users/fennson1/CLionProjects/ImprovedCombatGame/Enemy.h
+
+/Users/fennson1/CLionProjects/ImprovedCombatGame/Enemy.h
+string
+-
+Weapon.h
+/Users/fennson1/CLionProjects/ImprovedCombatGame/Weapon.h
+vector
+-
+
+/Users/fennson1/CLionProjects/ImprovedCombatGame/Weapon.h
+set
+-
+list
+-
+string
+-
+ctime
+-
+

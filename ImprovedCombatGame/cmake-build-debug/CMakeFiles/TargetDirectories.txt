@@ -1,0 +1,3 @@
+/Users/fennson1/CLionProjects/ImprovedCombatGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fennson1/CLionProjects/ImprovedCombatGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fennson1/CLionProjects/ImprovedCombatGame/cmake-build-debug/CMakeFiles/ImprovedCombatGame.dir
